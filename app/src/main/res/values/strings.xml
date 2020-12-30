@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projetProgrammationMobile</string>
+    <string name="example_application">Example application</string>
+    <string name="name">Name :</string>
+</resources>
